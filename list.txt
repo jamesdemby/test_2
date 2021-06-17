@@ -1,4 +1,11 @@
-Bananas
-Oranges
-Strawberries
-Apples
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Jun 16 22:42:29 2021
+
+@author: jamesdemby
+"""
+
+x = 2
+for i in range(x):
+    print(f'this is the {i} number')
